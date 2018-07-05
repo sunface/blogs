@@ -1,3 +1,5 @@
+>本文发表时间：2018年3月16号
+
 ## PoS简介
 在[上一篇文章]((https://medium.com/@mycoralhealth/code-your-own-blockchain-mining-algorithm-in-go-82c6a71aba1f))中，我们讨论了工作量证明(Proof of Work)，并向您展示了如何编写自己的工作量证明区块链。当前最流行的两个区块链平台，比特币和Ethereum都是基于工作量证明的。
 

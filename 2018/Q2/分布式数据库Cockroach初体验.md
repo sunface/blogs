@@ -1,4 +1,6 @@
-### 结论前置  1。
+>本文发表时间：2018年5月7号
+
+### 结论前置 
 1. CR（笔者对cockroach的简称）数据库的产品体验比TIDB要好，例如官网、文档、部署维护、后台管理、监控，当然这里不是说tidb不好，tidb兼容mysql协议就非常棒，而且中文文档和中文的客服支持也是极棒的。
 
 2.CR对标准sql的支持比较完善，详情见[sql特性支持](https://www.cockroachlabs.com/docs/stable/sql-feature-support.html)  [sql语句](https://www.cockroachlabs.com/docs/stable/sql-statements.html)

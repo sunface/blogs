@@ -1,6 +1,9 @@
+>本文发表时间：2018年5月7号
+
 感谢原作者给予的授权！
 >原文链接：https://imscc.io/posts/trace/install_jaeger_on_linux/
 原文作者： 聪少
+
 
 最近在折腾Jaeger，Jaeger官网都是介绍如何通过Docker部署，二进制部署文档基本没有（已咨询过作者，作者说没文档！你参考Docker自己部署好了！！！），所以打算写一篇Linux部署。
 ### Jaeger
