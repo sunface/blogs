@@ -20,3 +20,7 @@
 - [编程开发](index/programing.md)
 - [Cloud Native微服务](index/cloud-native.md)
 - [算法之美](index/algorithm.md)
+
+## 我的书籍
+1. [Micro in action](https://github.com/sunface/micro-in-action)
+为微服务团队的技术leader量身打造, 一套云原生应用的管理实践规范，帮助leader更好的搭建团队技术体系并管理整个团队
