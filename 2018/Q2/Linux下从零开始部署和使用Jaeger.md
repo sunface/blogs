@@ -1,4 +1,4 @@
->本文发表时间：2018年5月7号
+>本文发表时间：2018年5月10号
 
 感谢原作者给予的授权！
 >原文链接：https://imscc.io/posts/trace/install_jaeger_on_linux/
