@@ -1,4 +1,5 @@
 > 外文发表日期： 2018-04-14
+分类于[区块链](../../index/blockchain.md)
 本文发表时间：2018-04-15
 外文链接：https://medium.com/coinmonks/code-a-simple-p2p-blockchain-in-go-46662601f417
 
