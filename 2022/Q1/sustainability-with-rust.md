@@ -13,4 +13,4 @@ Rust 是一门完全开源的语言，在 2015 年发布了 1.0 版本，但是�
 
 ## 云计算的能源效率
 
-[]!(https://pica.zhimg.com/80/v2-f3be97bda5058c1b490bd393e5cd2910_1440w.png)
+<img src="https://pica.zhimg.com/80/v2-f3be97bda5058c1b490bd393e5cd2910_1440w.png" />
