@@ -1,4 +1,4 @@
-# AWS眼中的Rust与能效
+# AWS 眼中的 Rust 语言
 夸 Rust 语言的方式至少有 3000 种，但是从环保和可持续发展角度去夸的大家见过嘛？这不，AWS 就给我们带来了一篇非常精彩的文章，一起来看看。
 
 > 原文链接： https://aws.amazon.com/cn/blogs/opensource/sustainability-with-rust/ ，由于原文过长，译文进行了适当的精简(例如夸 AWS 的部分 - , -)
@@ -80,6 +80,15 @@ Discord 最初使用 Python、Go、Elixir 来实现，但是随即他们发现�
 
 为了解决问题，Discord 选择使用 Rust 来重写该服务，然后下图是结果对比，Go 语言是左边一列，Rust 是右边一列:
 
-<span>Go</span>   <span float="right">Rust</span>
 <img src="https://pic1.zhimg.com/80/v2-3cc17afdf0495fb57c25b1abfc629114_1440w.png">
+
+从图中可以看出几点：
+
+- 由于 GC 导致的峰值起伏没有了
+- Rust 版本比 Go 的版本响应时间降低了 10 倍以上，注意看，图中的时间单位是不一样的
+
+在重写后，由于性能的大幅提升，还帮助 Discord 降低了服务器资源的需求，变相节省了大笔金钱。
+
+从上面两个例子中，我们看到两个公司都是为了性能才去使用 Rust ，但是在性能之外他们还收获了能效上的提升和硬件成本上的降低，这不得不说是一种意外之喜了。
+
 
